@@ -1,0 +1,10 @@
+com\ait\pbm\service\ContactServiceImpl.class
+com\ait\pbm\entity\Contact.class
+com\ait\pbm\controller\ContactRestController.class
+com\ait\pbm\PhoneBookApplication.class
+com\ait\pbm\service\ContactService.class
+com\ait\pbm\constant\AppConstant.class
+com\ait\pbm\repository\ContactRepository.class
+com\ait\pbm\AppProperties.class
+com\ait\pbm\config\SwaggerConfig.class
+com\ait\pbm\ServletInitializer.class

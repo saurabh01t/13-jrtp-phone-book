@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.ait.pbm.PhoneBookApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 15.359 s <<< FAILURE! - in com.ait.pbm.PhoneBookApplicationTests
+test_saveContact_3  Time elapsed: 0.106 s  <<< ERROR!
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.RuntimeException
+	at com.ait.pbm.PhoneBookApplicationTests.test_saveContact_3(PhoneBookApplicationTests.java:108)
+Caused by: java.lang.RuntimeException
+
