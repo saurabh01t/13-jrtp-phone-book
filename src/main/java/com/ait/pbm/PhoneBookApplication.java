@@ -7,8 +7,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PhoneBookApplication {
 
 	private int var = 10;
+	
 	private int var1 = 15;
+	
 	private int var2 = 20;
+	
+	private int var3 = 30;
+
+	
 	
 	public static void main(String[] args) {
 		SpringApplication.run(PhoneBookApplication.class, args);
