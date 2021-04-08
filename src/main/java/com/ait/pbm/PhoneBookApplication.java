@@ -15,6 +15,8 @@ public class PhoneBookApplication {
 	private int var3 = 30;
 
 	private int var4 = 40;
+
+	private int var5 = 50;
 	
 	public static void main(String[] args) {
 		SpringApplication.run(PhoneBookApplication.class, args);
